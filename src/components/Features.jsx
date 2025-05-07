@@ -48,7 +48,7 @@ const Features = () => {
             className="bg-amber-100 flex items-center gap-3 py-3 rounded-xl w-[290px]"
           >
             <img
-              src={Orange}
+              src={Apple}
               alt="feature"
               className="w-[50px] h-[50px] bg-white p-2 m-2 rounded-full"
             />
